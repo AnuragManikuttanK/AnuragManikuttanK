@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anurag%20Manikuttan.k&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anurag%20Manikuttan K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
